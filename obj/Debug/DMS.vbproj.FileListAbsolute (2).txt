@@ -1,0 +1,12 @@
+C:\ARQ Personal\Trent\Trent Study\Winter 2019\Labs & Assignments\COIS 1520H\Assignments\Qayyum_Muhammad_Assignment4\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe.config
+C:\ARQ Personal\Trent\Trent Study\Winter 2019\Labs & Assignments\COIS 1520H\Assignments\Qayyum_Muhammad_Assignment4\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe
+C:\ARQ Personal\Trent\Trent Study\Winter 2019\Labs & Assignments\COIS 1520H\Assignments\Qayyum_Muhammad_Assignment4\Assignment_4\Assignment_4\bin\Debug\Assignment_4.pdb
+C:\ARQ Personal\Trent\Trent Study\Winter 2019\Labs & Assignments\COIS 1520H\Assignments\Qayyum_Muhammad_Assignment4\Assignment_4\Assignment_4\bin\Debug\Assignment_4.xml
+C:\ARQ Personal\Trent\Trent Study\Winter 2019\Labs & Assignments\COIS 1520H\Assignments\Qayyum_Muhammad_Assignment4\Assignment_4\Assignment_4\obj\Debug\Assignment_4.vbprojAssemblyReference.cache
+C:\ARQ Personal\Trent\Trent Study\Winter 2019\Labs & Assignments\COIS 1520H\Assignments\Qayyum_Muhammad_Assignment4\Assignment_4\Assignment_4\obj\Debug\Assignment_4.Form1.resources
+C:\ARQ Personal\Trent\Trent Study\Winter 2019\Labs & Assignments\COIS 1520H\Assignments\Qayyum_Muhammad_Assignment4\Assignment_4\Assignment_4\obj\Debug\Assignment_4.Resources.resources
+C:\ARQ Personal\Trent\Trent Study\Winter 2019\Labs & Assignments\COIS 1520H\Assignments\Qayyum_Muhammad_Assignment4\Assignment_4\Assignment_4\obj\Debug\Assignment_4.vbproj.GenerateResource.cache
+C:\ARQ Personal\Trent\Trent Study\Winter 2019\Labs & Assignments\COIS 1520H\Assignments\Qayyum_Muhammad_Assignment4\Assignment_4\Assignment_4\obj\Debug\Assignment_4.vbproj.CoreCompileInputs.cache
+C:\ARQ Personal\Trent\Trent Study\Winter 2019\Labs & Assignments\COIS 1520H\Assignments\Qayyum_Muhammad_Assignment4\Assignment_4\Assignment_4\obj\Debug\Assignment_4.exe
+C:\ARQ Personal\Trent\Trent Study\Winter 2019\Labs & Assignments\COIS 1520H\Assignments\Qayyum_Muhammad_Assignment4\Assignment_4\Assignment_4\obj\Debug\Assignment_4.xml
+C:\ARQ Personal\Trent\Trent Study\Winter 2019\Labs & Assignments\COIS 1520H\Assignments\Qayyum_Muhammad_Assignment4\Assignment_4\Assignment_4\obj\Debug\Assignment_4.pdb
