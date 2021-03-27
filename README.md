@@ -1,5 +1,5 @@
 # Database-Management-System
-This is an application to sort names in ascending or descending order from a given data file.
+This is a Visual Basics (.vb) application to sort names in ascending or descending order from a given data file; programmed.
 
  Program Description:
            The program reads the data from text file locate in bin which has all the names saved in it;
